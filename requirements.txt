@@ -1,2 +1,0 @@
-grequests
-beautifulsoup4
